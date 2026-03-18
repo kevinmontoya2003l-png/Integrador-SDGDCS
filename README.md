@@ -1,4 +1,4 @@
-# 🧠 NeoApp - Módulo de Análisis de Datos
+# 🧠 Personal de salud - Módulo de Análisis de Datos
 ## Kevin Laverde Montoya
 ## Marlon Steven Echavarria Agudelo
 
